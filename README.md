@@ -1,12 +1,12 @@
 # misORFPred: A Novel Method to Mine the Translatable sORFs in Plant Pri-miRNAs Using Enhanced Scalable k-mer and Dynamic Ensemble Voting Strategy
 ## Dataset
 #### training dataset: 
-* data/ath_training_dataset.txt
+* dataset/ath_training_dataset_800.txt
 #### independent testing dataset: 
-* data/ath_independent_testing_dataset1.txt
-* data/gma_independent_testing_dataset2.txt
-* data/vvi_independent_testing_dataset3.txt
-* data/verified_independent_testing_dataset4.txt
+* dataset/ath_independent_testing_dataset1.txt
+* dataset/gma_independent_testing_dataset2.txt
+* dataset/vvi_independent_testing_dataset3.txt
+* dataset/verified_independent_testing_dataset4.txt
 ## Requirement
 * Python == 3.7
 * biopython == 1.81
